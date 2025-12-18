@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1280" height="400"
-     viewBox="0 0 1280 400">
+     width="1280" height="300"
+     viewBox="0 0 1280 300">
 
   <style>
     .title {
@@ -29,10 +29,10 @@
   <rect width="100%" height="100%" fill="#0d1117"/>
 
   <!--Title-->
-  <text x ="50%" y="180" text-anchor="middle" class="title">I'm Nurfadillah Umar</text>
+  <text x ="50%" y="135" text-anchor="middle" class="title">I'm Nurfadillah Umar</text>
 
   <!--Subtitle-->
-  <text x="50%" y="230"
+  <text x="50%" y="200"
         text-anchor="middle"
         class="subtitle">
     Frontend Developer<tspan class="cursor">_</tspan>
