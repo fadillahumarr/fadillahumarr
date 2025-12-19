@@ -12,6 +12,7 @@
 </header>
 
 ### Things I use on a daily basis
+
 <div>
     <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -27,3 +28,16 @@
 </div>
 
 ### My Statistics
+
+<div align="center">
+  <a href="https://github.com/fadillahumarr/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=fadillahumarr" height="165" />
+  </a>
+  <a href="https://github.com/fadillahumarr/LeetCode-Stats-Card" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/fadillahumarr?theme=dark"
+      height="165"
+    />
+  </a>
+</div>
+
