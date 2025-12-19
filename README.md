@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/fadillahumarr/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=fadillahumarr" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fadillahumarr&show_icons=true&theme=dark" height="165" />
   </a>
   <a href="https://github.com/fadillahumarr/LeetCode-Stats-Card" target="_blank">
     <img
